@@ -180,4 +180,4 @@ var emailAddress = $("input").val();
 
 ## In-Class Lab
 
-- For this lab you will be working with jQuery to activate the functionality for a small [style-switcher application](https://github.com/arun-projects/jQuery-Style-Switcher)
+- For this lab you will be working with jQuery to activate the functionality for a small [style-switcher application](https://github.com/sf-wdi-44/jQuery-Style-Switcher)
